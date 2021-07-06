@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Lucky's Own Site
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+Ideas comes from your own life.
